@@ -9,8 +9,6 @@ The infrastructure of your organization has been transitioned to Azure. It’s c
 
 ## Estimated time - 45 minutes
 
-![Diagram of the architecture tasks](images/LogAnalyticsChallenge.png)
-
 ## Job skills
 
 + Task 1: Use a template to provision an infrastructure.
