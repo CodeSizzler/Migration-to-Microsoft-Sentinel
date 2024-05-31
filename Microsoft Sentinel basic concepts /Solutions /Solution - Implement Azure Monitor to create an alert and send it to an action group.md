@@ -3,7 +3,7 @@ Soluion for Challenge:
     title: 'Solution - Implement Azure Monitor to create an alert and send it to an action group'
 ---
 
-# Lab 11 - Implement Monitoring
+# Lab - Implement Monitoring
 
 ## Introduction
 
